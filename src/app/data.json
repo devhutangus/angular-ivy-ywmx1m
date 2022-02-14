@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Thomas",
+    "age": 17,
+
+    "maths": 20,
+    "science": 56,
+    "geography": 78,
+    "english": 65
+  },
+  {
+    "name": "Mary",
+    "age": 16,
+
+    "maths": 80,
+    "science": 78,
+    "geography": 18,
+    "english": 67
+  },
+  {
+    "name": "Paul",
+    "age": 18,
+
+    "maths": 90,
+    "science": 98,
+    "geography": 88,
+    "english": 87
+  },
+  {
+    "name": "Minenhle",
+    "age": 16,
+
+    "maths": 80,
+    "science": 40,
+    "geography": 67,
+    "english": 87
+  },
+  {
+    "name": "Mohammed",
+    "age": 19,
+
+    "maths": 38,
+    "science": 76,
+    "geography": 69,
+    "english": 80
+  },
+  {
+    "name": "Terrance",
+    "age": 15,
+
+    "maths": 95,
+    "science": 89,
+    "geography": 76,
+    "english": 90
+  },
+  {
+    "name": "Vuyi",
+    "age": 17,
+
+    "maths": 56,
+    "science": 65,
+    "geography": 76,
+    "english": 45
+  },
+  {
+    "name": "Thandi",
+    "age": 18,
+
+    "maths": 47,
+    "science": 64,
+    "geography": 37,
+    "english": 98
+  },
+  {
+    "name": "Vincent",
+    "age": 16,
+
+    "maths": 56,
+    "science": 76,
+    "geography": 84,
+    "english": 54
+  },
+  {
+    "name": "David",
+    "age": 19,
+
+    "maths": 87,
+    "science": 57,
+    "geography": 68,
+    "english": 65
+  }
+]
